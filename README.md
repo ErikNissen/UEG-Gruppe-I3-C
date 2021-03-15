@@ -1,1 +1,1 @@
-# UEG-Catana-Game
+# UEG-Catan-Game
