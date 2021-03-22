@@ -1,1 +1,1 @@
-# UEG-Catan-Game
+# UEG-Gruppe-I3/C
